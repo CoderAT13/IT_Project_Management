@@ -13,4 +13,4 @@ SYSU SDCS 2020 Spring IT项目管理作业
 2. [hw2企业信息化重要性分析](hw2/hw2.md)
 3. [hw3项目管理过程与领域知识及其关系](hw3/hw3.md)
 4. [hw4分析与工具](hw4/hw4.md)
-
+5. [hw5收集需求与定义范围](hw5/hw5.md)

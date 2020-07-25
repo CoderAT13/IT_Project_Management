@@ -16,3 +16,4 @@ SYSU SDCS 2020 Spring IT项目管理作业
 5. [hw5收集需求与定义范围](hw5/hw5.md)
 6. [HW6项目时间管理](hw6/hw6.md)
 7. [HW7项目成本管理](hw7/hw7.md)
+8. [HW8项目质量管理](hw8/hw8.md)

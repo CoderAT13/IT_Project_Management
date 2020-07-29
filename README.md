@@ -17,3 +17,4 @@ SYSU SDCS 2020 Spring IT项目管理作业
 6. [HW6项目时间管理](hw6/hw6.md)
 7. [HW7项目成本管理](hw7/hw7.md)
 8. [HW8项目质量管理](hw8/hw8.md)
+9. [2020 ITPM课程期末管理经验报告](fin/final_report.md)
